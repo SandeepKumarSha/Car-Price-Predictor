@@ -9,6 +9,14 @@ The application is built using **Python, Flask, and Scikit-Learn** and is deploy
 👉 https://car-price-predictor-always.onrender.com
 
 ---
+## 📸 Screenshot
+
+
+
+![Car Price Predictor](https://github.com/SandeepKumarSha/Car-Price-Predictor/blob/056731aa8d76681b04a7e6b2075e972bc68680ab/UI%20screenshot.png)
+
+
+---
 
 ## 📌 Features
 
@@ -127,14 +135,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshot
-
-
-
-![Car Price Predictor](https://github.com/SandeepKumarSha/Car-Price-Predictor/blob/056731aa8d76681b04a7e6b2075e972bc68680ab/UI%20screenshot.png)
-
-
----
 
 ## 👨‍💻 Author
 
