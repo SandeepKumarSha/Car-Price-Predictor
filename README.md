@@ -131,7 +131,7 @@ http://127.0.0.1:5000
 
 
 
-![Car Price Predictor](UI screenshot.png)
+![Car Price Predictor](https://github.com/SandeepKumarSha/Car-Price-Predictor/blob/056731aa8d76681b04a7e6b2075e972bc68680ab/UI%20screenshot.png)
 
 
 ---
