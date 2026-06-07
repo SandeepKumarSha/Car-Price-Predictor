@@ -1,8 +1,8 @@
 # 🚗 Car Price Predictor
 
-A Machine Learning web application that predicts the selling price of a used car based on features such as company, model, year, fuel type, and kilometers driven.
+A Machine Learning-powered web application that predicts the selling price of used cars based on features such as company, model, year, fuel type, and kilometers driven.
 
-The application is built using **Python, Flask, and Scikit-Learn** and is deployed online for real-time predictions.
+The project leverages a **Linear Regression model** from Scikit-Learn to analyze historical car data and generate accurate price predictions. The model is integrated with a **Flask-based web application**, enabling users to receive real-time price estimates through a simple and intuitive interface.
 
 ## 🔗 Live Demo
 
@@ -52,13 +52,14 @@ The application is built using **Python, Flask, and Scikit-Learn** and is deploy
 ```text
 Car-Price-Predictor
 │
-├── templates
+├── templates/
 │   └── index.html
 │
 ├── app.py
 ├── Cleaned Car.csv
 ├── LinearRegressionModel.pkl
 ├── requirements.txt
+├── UI screenshot.png
 ├── .gitignore
 └── README.md
 ```
