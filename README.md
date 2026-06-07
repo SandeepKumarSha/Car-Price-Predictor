@@ -145,4 +145,4 @@ GitHub: https://github.com/SandeepKumarSha
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub.
+Thank you for checking out this project!
