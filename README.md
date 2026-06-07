@@ -130,9 +130,9 @@ http://127.0.0.1:5000
 ## 📸 Screenshot
 
 
-```markdown
+
 ![Car Price Predictor](UI screenshot.png)
-```
+
 
 ---
 
